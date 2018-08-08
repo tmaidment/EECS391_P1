@@ -1,0 +1,5 @@
+Note to TA
+
+The zip file contains the base directory of an Intellij project.  If you have intellij, I believe you could just import the project. If so, the project should be set up use input.txt as an input.
+
+If not, Main.java takes in the arguement of a file path.  In addition, it supports a puzzle initialization string such as the example in the instructions "b12 345 678”, and will solve it.

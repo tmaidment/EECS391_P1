@@ -1,0 +1,15 @@
+//Cases with varying RandomMoves MaxNodes and K-Value
+50,5000,100
+50,5000,200
+50,5000,300
+50,5000,400
+50,5000,500
+//Varying Randomization
+10,5000,300
+20,5000,300
+30,5000,300
+40,5000,300
+50,5000,300
+//Failure Cases
+50,499,500
+50,10,1
